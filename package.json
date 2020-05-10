@@ -1,0 +1,18 @@
+{
+  "name": "nodegenerator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "glob": "^7.1.6",
+    "inkjet": "^2.1.2",
+    "jpeg-js": "^0.3.6",
+    "pngjs": "^3.4.0",
+    "readline-sync": "^1.4.10"
+  }
+}
